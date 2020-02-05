@@ -8,14 +8,14 @@ The [CBL](https://cbl.tools) API allows developers and community managers to spo
 This API is still under HEAVY development. Breaking changes may happen with little to no warning.
 :::
 
-All API request use the base URL `https://api.pureinvestments.com:3000/api/{version}/`
+All API request use the base URL `https://api.astronaut.gg:3000/api/{version}/`
 
 |API version|Status|
 |---|---|
 |v1|Pre-release|
 
 All 3rd-party applications using the API should set a user agent that identifies their application.   \
-Example: `User-Agent: Pi (pi.bot, v1.0)`
+Example: `User-Agent: Cosmo (cosmo.bot, v1.0)`
 
 ## Authentication
 
